@@ -1,4 +1,4 @@
-# InteligenciaArtificial
+# Inteligencia Artificial
 Repositorio de la materia Inteligencia Artificial
 
 Alumnos: 
