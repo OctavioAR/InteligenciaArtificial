@@ -1,7 +1,13 @@
 from arbolBinario import Arbol
 
 if __name__ == '__main__':
+
     arbol = Arbol()
+    # arbol.insertar("luis")
+    # arbol.insertar("antonio")
+    # arbol.insertar("pedro")
+    # arbol.insertar("tomas")
+    # arbol.insertar("octavio") 
     arbol.insertar(70)
     arbol.insertar(31)
     arbol.insertar(93)
@@ -9,10 +15,10 @@ if __name__ == '__main__':
     arbol.insertar(14)
     arbol.insertar(23)
     arbol.insertar(73)
-
     print("Arbol en orden: ")
     arbol.imprimirArbol()
 
+    # buscar = "paco"
     buscar = 31
 
     resultado = arbol.buscar(buscar)
