@@ -11,3 +11,7 @@ Alumnos:
 
 ### Tarea 2: Resumen historia de la IA
 - **Descripción:** Esta tarea es acerca de la historia de la IA y de sus primeros contribuyentes desde los 40 hasta los 90. (Carpeta: HISTORIA IA).
+
+### Tarea 3: Resumen tecnologias con agentes inteligentes
+- **Descripción:** Esta tarea es acerca de las tecnologias que estan relacionadas con los agentes inteligentes y los frameworks, herramientas y algoritmos que se utilizan para elaborar dichos sitemas. (Carpeta: TECNOLOGÍAS CON AGENTES INTELIGENTES).
+
