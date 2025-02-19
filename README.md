@@ -15,3 +15,6 @@ Alumnos:
 ### Tarea 3: Resumen tecnologias con agentes inteligentes
 - **Descripción:** Esta tarea es acerca de las tecnologias que estan relacionadas con los agentes inteligentes y los frameworks, herramientas y algoritmos que se utilizan para elaborar dichos sitemas. (Carpeta: TECNOLOGÍAS CON AGENTES INTELIGENTES).
 
+### Tarea 4: Resumen agentes deliberativos
+- **Descripción:** Esta tarea es acerca de que son los agentes deliberativos, importancia, principios, ejemplos de empresas que utilizan estos agentes.
+
