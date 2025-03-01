@@ -18,3 +18,6 @@ Alumnos:
 ### Tarea 4: Resumen agentes deliberativos
 - **Descripción:** Esta tarea es acerca de que son los agentes deliberativos, importancia, principios, ejemplos de empresas que utilizan estos agentes. (CARPETA: AGENTES DELIBERATIVOS).
 
+### Proyecto Puzzle 8:
+- **Descripción:** Este proyecto trata sobre resolver el juego del puzzle 8 utilizando el algoritmo A* y la heurística de distancia manhattan. (CARPETA: PROYECTOPUZZLE8).
+
