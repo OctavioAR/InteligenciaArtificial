@@ -6,6 +6,8 @@ Alumnos:
 - Aguilar Recio Jesús Octavio
 - Flores Fernandez Emily Karely
 
+## Estas tareas y proyectos se encuentran en la carpeta unidad 1:
+
 ### Tarea 1: Árbol de búsqueda binaria en Python
 - **Descripción:** Esta tarea implementa un árbol de búsqueda binaria en python con los siguientes metodos: inserción, búsqueda e impresión de datos en el arbol (Carpeta: ARBOL).
 
@@ -20,4 +22,6 @@ Alumnos:
 
 ### Proyecto Puzzle 8:
 - **Descripción:** Este proyecto trata sobre resolver el juego del puzzle 8 utilizando el algoritmo A* y la heurística de distancia manhattan. (CARPETA: PROYECTOPUZZLE8).
+
+## Estas tareas y proyectos se encuentran en la carpeta unidad 2:
 
