@@ -28,3 +28,5 @@ Alumnos:
 ### Tarea 1: Paradigmas de la IA
 - **Descripción:** Esta tarea es acerca de los paradigmas que vimos en clase, una investigacion para saber un poco mas de ellos y ejemplos practicos de estos. (CARPETA: PARADIGMAS DE LA IA).
 
+### Tarea 2: Aprendizaje automático
+- **Descripción:** Esta tarea trata sobre el proceso del aprendizaje automático y cuales son las similitudes y diferencias con el modelo cognitivo. (CARPETA: APRENDIZAJE AUTOMÁTICO).
