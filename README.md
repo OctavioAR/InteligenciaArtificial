@@ -25,3 +25,6 @@ Alumnos:
 
 ## Estas tareas y proyectos se encuentran en la carpeta unidad 2:
 
+### Tarea 1: Paradigmas de la IA
+- **Descripción:** Esta tarea es acerca de los paradigmas que vimos en clase, una investigacion para saber un poco mas de ellos y ejemplos practicos de estos. (CARPETA: PARADIGMAS DE LA IA).
+
