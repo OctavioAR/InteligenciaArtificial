@@ -30,3 +30,6 @@ Alumnos:
 
 ### Tarea 2: Aprendizaje automático
 - **Descripción:** Esta tarea trata sobre el proceso del aprendizaje automático y cuales son las similitudes y diferencias con el modelo cognitivo. (CARPETA: APRENDIZAJE AUTOMÁTICO).
+
+### Tarea 3: Red Semantica Pagina Web
+- **Descripción:** Esta tarea es sobre la pagina web de Nike, donde estuvimos checandola para poder hacer nuestra version de su red semantica. (CARPETA: RED SEMANTICA).
