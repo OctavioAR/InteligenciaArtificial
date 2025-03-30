@@ -33,3 +33,6 @@ Alumnos:
 
 ### Tarea 3: Red Semantica Pagina Web
 - **Descripción:** Esta tarea es sobre la pagina web de Nike, donde estuvimos checandola para poder hacer nuestra version de su red semantica. (CARPETA: RED SEMANTICA).
+
+### Tarea 4: Detector de Correo Spam
+- **Descripción:** Esta tarea es el detector de spam en un correo, donde estamos utilizando la logica dl teorema de Bayes. (CARPETA: DETECTOR DE CORREO SPAM).
