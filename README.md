@@ -36,3 +36,8 @@ Alumnos:
 
 ### Proyecto Detector de Correo Spam
 - **Descripción:** Esta tarea es el detector de spam en un correo, donde estamos utilizando la logica dl teorema de Bayes. (CARPETA: DETECTOR DE CORREO SPAM).
+
+## Estas tareas y proyectos se encuentran en la carpeta unidad 3:
+
+### Tarea 1: Paradigmas de la IA
+- **Descripción:** Esta tarea es acerca de la idea del sistema experto dando una descripción, objetivos y objetivos especificos. (CARPETA: IDEA SISTEMA EXPERTO).
