@@ -39,5 +39,5 @@ Alumnos:
 
 ## Estas tareas y proyectos se encuentran en la carpeta unidad 3:
 
-### Tarea 1: Paradigmas de la IA
+### Tarea 1: Idea Sistema Experto
 - **Descripción:** Esta tarea es acerca de la idea del sistema experto dando una descripción, objetivos y objetivos especificos. (CARPETA: IDEA SISTEMA EXPERTO).
