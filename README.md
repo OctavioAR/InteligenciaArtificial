@@ -41,3 +41,6 @@ Alumnos:
 
 ### Tarea 1: Idea Sistema Experto
 - **Descripción:** Esta tarea es acerca de la idea del sistema experto dando una descripción, objetivos y objetivos especificos. (CARPETA: IDEA SISTEMA EXPERTO).
+
+### Tarea 2: Diagrama de inferencia y reglas
+- **Descripción:** Esta tarea es acerca del desarrollo del diagrama de inferencia del sistema experto y las reglas del mismo. (CARPETA: DIAGRAMA DE INFERENCIA Y REGLAS).
