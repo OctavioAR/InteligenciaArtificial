@@ -44,3 +44,6 @@ Alumnos:
 
 ### Tarea 2: Diagrama de inferencia y reglas
 - **Descripción:** Esta tarea es acerca del desarrollo del diagrama de inferencia del sistema experto y las reglas del mismo. (CARPETA: DIAGRAMA DE INFERENCIA Y REGLAS).
+
+### Tarea 3: Reglas transformadas a logica proposicional
+- **Descripción:** Esta tarea es acerca de desasrrollar las reglas del sistema experto a logica proposicional. (CARPETA: REGLAS LOGICA PROPOSICIONAL).
