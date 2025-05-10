@@ -33,14 +33,14 @@ leer_entrada_sn(Pregunta, Respuesta) :-
 
 % PREDICADO PARA LIMPIAR LA BASE DE CONOCIMIENTOS
 
-limpiar_base :-
+limpiar_base_conocimiento :-
     retractall(sintoma(_)),
     retractall(verificacion(_,_)).
 
 % PREDICADO PRINCIPAL INTERFAZ DEL SISTEMA
 
 iniciar_programa :-
-    limpiar_base,
+    limpiar_base_conocimiento,
     writeln('=== SISTEMA EXPERTO PARA DIAGNOSTICO DE FALLAS DE ENCENDIDO ==='),
     writeln('\nSeleccione el sintoma principal:'),
     writeln('1. No hay sonido al girar la llave'),
