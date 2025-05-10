@@ -47,3 +47,6 @@ Alumnos:
 
 ### Tarea 3: Reglas transformadas a logica proposicional
 - **Descripción:** Esta tarea es acerca de desasrrollar las reglas del sistema experto a logica proposicional. (CARPETA: REGLAS LOGICA PROPOSICIONAL).
+
+### Proyecto Sistema Experto
+- **Descripción:** Este proyecto es sobre la elaboracion del sistema experto en prolog, con las reglas y hechos ya planteados en las anteriores tareas. (CARPETA: SISTEMA EXPERTO PROLOG).
