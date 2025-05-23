@@ -50,3 +50,8 @@ Alumnos:
 
 ### Proyecto Sistema Experto
 - **Descripción:** Este proyecto es sobre la elaboracion del sistema experto en prolog, con las reglas y hechos ya planteados en las anteriores tareas. (CARPETA: SISTEMA EXPERTO PROLOG).
+
+## Estas tareas y proyectos se encuentran en la carpeta unidad 4:
+
+### Tarea 1: Conjunto de imagenes
+- **Descripción:** Esta tarea es acerca de la optención de las imagenes para el sistema detector de emociones, ademas se le aplicó preprocesamiento. (CARPETA: CONJUNTO IMAGENES).
