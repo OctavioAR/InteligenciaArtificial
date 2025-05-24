@@ -64,9 +64,9 @@ with open(os.path.join(carpeta_Salida, 'etiquetas_preprocesadas.csv'), 'w', newl
                     (rotarImagen(img, 15), f"rot15_{img_name}", "rotacion_15"),
                     (rotarImagen(img, -15), f"rotneg15_{img_name}", "rotacion_-15")
                 ]
-            else:  
+            else:                
                 transformaciones = [(img, f"original_{img_name}", "original")]
-            
+            # guardamos imagenes transformadas
             for img_transformado, nombre, tipo in transformaciones:
                 rutaSalida = os.path.join(carpeta_Salida, conjunto, emocion, nombre)
                 cv2.imwrite(rutaSalida, img_transformado)
