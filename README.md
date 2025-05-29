@@ -55,3 +55,6 @@ Alumnos:
 
 ### Tarea 1: Conjunto de imagenes
 - **Descripción:** Esta tarea es acerca de la optención de las imagenes para el sistema detector de emociones, ademas se le aplicó preprocesamiento. (CARPETA: CONJUNTO IMAGENES).
+
+### Tarea 2: Detector de emociones
+- **Descripción:** Esta tarea es acerca de la elaboración del sistema para detectar las emociones en tiempo real, por medio de los procesos de entrenamiento y pruebas. (CARPETA: CLASIFICADOR DE EMOCIONES).
